@@ -1,6 +1,6 @@
 # MDLatex
 
-A powerful Swift package for seamlessly rendering Markdown with LaTeX support. Features include customizable themes, smooth animations, fluent API modifiers, and compatibility with iOS and macOS, designed for effortless integration into your apps.
+A powerful Swift package for seamlessly rendering Markdown with LaTeX support. Features include customizable themes, smooth animations, fluent API modifiers, and compatibility with iOS, designed for effortless integration into your apps.
 
 ---
 
@@ -10,7 +10,7 @@ A powerful Swift package for seamlessly rendering Markdown with LaTeX support. F
 - **Chunk-based Animations:** Render content in chunks for a smooth and dynamic user experience.
 - **Fluent Modifiers:** Easily configure the rendering behavior with a fluent API.
 - **Caching for Optimized Performance:** Non-animated rendering supports caching for repeated content.
-- **Cross-platform Support:** Compatible with iOS 14.0+ and macOS 11.0+.
+- **Cross-platform Support:** Compatible with iOS 14.0+ .
 
 ---
 
